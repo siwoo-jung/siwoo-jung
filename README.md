@@ -6,7 +6,7 @@ Actively transitioning into the technology industry, driven by passion and enthu
 
 ## Work Experience
 
-**Technical Engineer, Intern** @ [Enov8](https://www.enov8.com/), Sydney, Australia
+**Technical Engineer, Intern** @ [Enov8](https://www.enov8.com/), _Sydney, Australia_
 
 _February 2025 - Present_
 
@@ -33,3 +33,7 @@ Coursework:
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5f620975-9051-46c3-8aac-5603b114c3fc/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-au/SiwooJung-3725/D387D90AB80C1DD8?sharingId)
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-au/users/siwoojung-3725/credentials/d34e1ac4ed131ff4)
+
+## Side Projects
+
+**AWS-powered Full-Stack E-Commerce with Microservices & Serverless Backend**
