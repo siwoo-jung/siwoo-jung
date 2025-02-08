@@ -37,3 +37,16 @@ Coursework:
 ## Side Projects
 
 **AWS-powered Full-Stack E-Commerce with Microservices & Serverless Backend**
+
+[Demo](https://www.siwoo-ecommerce.com/), [Dev Blog](https://medium.com/@siwoo.jg/list/ecommerce-website-sideproject-028ed604f728), [Repo](https://github.com/siwoo-jung/ecommerce-frontend)
+
+AWS: <img src="./assets/Arch_Amazon-DynamoDB_64.png" width="50"><img src="./assets/Arch_Amazon-Elastic-Container-Registry_64.png" width="50"><img src="./assets/Arch_Amazon-EventBridge_64.png" width="50"><img src="./assets/Arch_Amazon-Simple-Storage-Service_64.png" width="50"><img src="./assets/Arch_AWS-Amplify_64.png" width="50"><img src="./assets/Arch_AWS-Cloud-Control-API_64.png" width="50"><img src="./assets/Arch_AWS-CodeBuild_64.png" width="50"><img src="./assets/Arch_AWS-Lambda_64.png" width="50">
+
+Others: [![My Skills](https://skillicons.dev/icons?i=nextjs,js,docker,tailwind)](https://skillicons.dev)
+
+- Implemented scalable and serverless microservices backend architecture with ***AWS Lambda***
+- Containerised each ***AWS Lambda*** microservice with ***Docker*** and hosted images on ***Amazon ECR***
+- Established CI/CD pipeline and automated deployment via ***AWS CodeBuild*** and ***AWS Amplify***
+- Developed RESTful CRUD operations via ***Amazon API Gateway***
+- Managed database via ***Amazon DynamoDB***
+- Utilised ***Next.js*** with ***Tailwind CSS*** for frontend performance with flexible styling
