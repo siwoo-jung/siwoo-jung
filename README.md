@@ -1,7 +1,8 @@
 # Siwoo JUNG
+
 Actively transitioning into the technology industry, driven by passion and enthusiasm for the field.
 
-[![Dev Blog Badge](http://img.shields.io/badge/Dev%20blog-000000)](https://medium.com/@siwoo.jg) 
+[![Dev Blog Badge](http://img.shields.io/badge/Dev%20blog-000000)](https://medium.com/@siwoo.jg)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/siwoojung/)
 
 ## Work Experience
@@ -17,6 +18,7 @@ _February 2025 - Present_
 _Aug 2024 - Present_
 
 Coursework:
+
 - Introduction to Operating Systems
 
 **University of New South Wales** - M.Phil. in Chemical Engineering
@@ -24,9 +26,14 @@ Coursework:
 _Sep 2024_
 
 Coursework:
+
 - Data Structures and Algorithms
 - Principles of Programming
 - Programming Fundamentals
+
+## Open Source Contributions
+
+- [✅ Merged PR#1547](https://github.com/microsoft/presidio/pull/1547) & [Merged PR#1549](https://github.com/microsoft/presidio/pull/1549) in **microsoft-presidio** – _Corrected the return type annotation and revised documentation._
 
 ## Certifications
 
@@ -44,12 +51,12 @@ AWS: <img src="./assets/Arch_Amazon-DynamoDB_64.png" width="50"><img src="./asse
 
 Others: [![My Skills](https://skillicons.dev/icons?i=nextjs,js,docker,tailwind)](https://skillicons.dev)
 
-- Implemented scalable and serverless microservices backend architecture with ***AWS Lambda***
-- Containerised each ***AWS Lambda*** microservice with ***Docker*** and hosted images on ***Amazon ECR***
-- Established CI/CD pipeline and automated deployment via ***AWS CodeBuild*** and ***AWS Amplify***
-- Developed RESTful CRUD operations via ***Amazon API Gateway***
-- Managed database via ***Amazon DynamoDB***
-- Utilised ***Next.js*** with ***Tailwind CSS*** for frontend performance with flexible styling
+- Implemented scalable and serverless microservices backend architecture with **_AWS Lambda_**
+- Containerised each **_AWS Lambda_** microservice with **_Docker_** and hosted images on **_Amazon ECR_**
+- Established CI/CD pipeline and automated deployment via **_AWS CodeBuild_** and **_AWS Amplify_**
+- Developed RESTful CRUD operations via **_Amazon API Gateway_**
+- Managed database via **_Amazon DynamoDB_**
+- Utilised **_Next.js_** with **_Tailwind CSS_** for frontend performance with flexible styling
 
 #
 
@@ -60,22 +67,22 @@ Others: [![My Skills](https://skillicons.dev/icons?i=nextjs,js,docker,tailwind)]
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 - Data visualisation & pre-processing
 - ML model development with supervised learning
-    - Linear
-    - Polynomial
-    - Ridge & LASSO
-    - Support Vector Regressor
-    - Decision Tree & Random Forest
-    - Gradient Boosting & XGBoost
-    - Neural Network
+  - Linear
+  - Polynomial
+  - Ridge & LASSO
+  - Support Vector Regressor
+  - Decision Tree & Random Forest
+  - Gradient Boosting & XGBoost
+  - Neural Network
 - Hyperparameter tuning with cross-validations
 - Evaluation of results with
-    - R-Squared
-    - Mean Absolute Error
-    - Mean Absolute Percentage Error
-    - Mean Squared Error
+  - R-Squared
+  - Mean Absolute Error
+  - Mean Absolute Percentage Error
+  - Mean Squared Error
