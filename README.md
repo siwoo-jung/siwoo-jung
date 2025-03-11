@@ -33,7 +33,7 @@ Coursework:
 
 ## Open Source Contributions
 
-- [✅ Merged PR#1547](https://github.com/microsoft/presidio/pull/1547) & [Merged PR#1549](https://github.com/microsoft/presidio/pull/1549) in **microsoft-presidio** – _Corrected the return type annotation and revised documentation._
+- [✅ Merged PR#1547](https://github.com/microsoft/presidio/pull/1547) & [Merged PR#1549](https://github.com/microsoft/presidio/pull/1549) in **microsoft-presidio** – _Improved function return type annotations for better type safety and updated documentation for clarity._
 
 ## Certifications
 
