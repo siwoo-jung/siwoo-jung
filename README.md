@@ -7,9 +7,13 @@ Actively transitioning into the technology industry, driven by passion and enthu
 
 ## Work Experience
 
+**Technical Engineer, Full-time** @ [Enov8](https://www.enov8.com/), _Sydney, Australia_
+
+_July 2025 - Present_
+
 **Technical Engineer, Intern** @ [Enov8](https://www.enov8.com/), _Sydney, Australia_
 
-_February 2025 - Present_
+_February 2025 - June 2025_
 
 ## Education
 
