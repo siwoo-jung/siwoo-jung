@@ -1,4 +1,5 @@
-# Siwoo JUNG [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/siwoojung/)
+# Siwoo JUNG [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/siwoojung/) ![Static Badge](https://img.shields.io/badge/Blog-8A2BE2?logo=jekyll)
+
 
 - Technical Engineer @ [Enov8](https://www.enov8.com/).
 - Master's student in computer science at the Georgia Institute of Technology.
@@ -26,10 +27,9 @@
 
 **microsoft-presidio**
 
-- [✅ Merged PR#1653](https://github.com/microsoft/presidio/pull/1653)
-  - _Enhanced NlpEngineProvider with validation methods for NLP engines, configuration, and conf file path._
-- [✅ Merged PR#1547](https://github.com/microsoft/presidio/pull/1547) & [Merged PR#1549](https://github.com/microsoft/presidio/pull/1549)
-  - _Improved function return type annotations for better type safety and updated documentation for clarity._
+- Contribution rank #14
+- Major contributions:
+  - [✅ Merged PR#1653](https://github.com/microsoft/presidio/pull/1653) - _Enhanced NlpEngineProvider with validation methods for NLP engines, configuration, and conf file path, enabling an input validation logic to ensure that only valid arguments are passed to NlpEngineProvider._
 
 ## Certifications
 
