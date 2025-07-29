@@ -27,8 +27,9 @@
 
 **microsoft-presidio**
 
-- Contribution rank #14
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/microsoft/presidio?authorFilter=siwoo-jung&style=flat)
 - Major contributions:
+  - [✅ Merged PR#1675](https://github.com/microsoft/presidio/pull/1675) - _Added KrRrnRecognizer for Korean RRN detection with regex patterns, context awareness, and checksum validation._
   - [✅ Merged PR#1653](https://github.com/microsoft/presidio/pull/1653) - _Enhanced NlpEngineProvider with validation methods for NLP engines, configuration, and conf file path, enabling an input validation logic to ensure that only valid arguments are passed to NlpEngineProvider._
 
 ## Certifications
