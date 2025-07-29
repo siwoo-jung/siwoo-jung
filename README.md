@@ -1,5 +1,4 @@
-# Siwoo JUNG [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/siwoojung/) ![Static Badge](https://img.shields.io/badge/Blog-8A2BE2?logo=jekyll)
-
+# Siwoo JUNG [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/siwoojung/) <img alt="Static Badge" src="https://img.shields.io/badge/Blog-8A2BE2?style=flat&logo=jekyll&link=https%3A%2F%2Fsiwoo-jung.github.io">
 
 - Technical Engineer @ [Enov8](https://www.enov8.com/).
 - Master's student in computer science at the Georgia Institute of Technology.
